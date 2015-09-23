@@ -12,5 +12,6 @@ setup(
     author='Aji Liu',
     author_email='amigcamel@gmail.com',
     url='https://github.com/amigcamel/pyhangouts.git',
+    download_url='https://github.com/amigcamel/pyhangouts/tarball/0.0.1',
     description="A selenium-based client for Google Hangouts",
 )

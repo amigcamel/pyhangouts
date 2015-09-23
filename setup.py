@@ -11,5 +11,6 @@ setup(
     ],
     author='Aji Liu',
     author_email='amigcamel@gmail.com',
+    url='https://github.com/amigcamel/pyhangouts.git',
     description="A selenium-based client for Google Hangouts",
 )
